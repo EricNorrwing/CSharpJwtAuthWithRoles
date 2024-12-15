@@ -1,0 +1,27 @@
+﻿# Build results
+[Bb]in/
+[Oo]bj/
+
+# Rider project files
+.idea/
+
+# User secrets
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio Code workspace
+.vscode/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
